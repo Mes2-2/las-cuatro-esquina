@@ -1,0 +1,13 @@
+<xml xmlns="https://developers.google.com/blockly/xml"><block type="pxt-on-start" id="s}Z}1@yg-JuGkh!shmyr" x="60" y="-22"></block><block type="device_forever" id="2X30A(]E{VnHo1y{{nj_" x="225" y="20"></block><block type="device_button_event" id="5t.M=,Ons+y$GW^30r0c" x="77" y="150"><field name="NAME">Button.A</field><statement name="HANDLER"><block type="device_show_leds" id="AG:}hX9}5@llCo|z;#d2"><field name="LEDS">`
+        # . . . # 
+        . # . # . 
+        . . # . . 
+        . # . # . 
+        # . . . #
+        `</field></block></statement></block><block type="input_logo_event" id="TuhO?o8GSTu,rKQ#P]#N" x="417" y="198"><field name="action">TouchButtonEvent.Pressed</field><statement name="HANDLER"><block type="device_show_leds" id="~q(yA;[SkIS~$VBXuL2R"><field name="LEDS">`
+        # . . . # 
+        . . . . . 
+        . . . . . 
+        . . . . . 
+        # . . . #
+        `</field></block></statement></block><block type="device_button_event" id="y_X8kCu,e]9Y]{J-*q7_" x="807" y="234"><field name="NAME">Button.B</field><statement name="HANDLER"><block type="basic_show_icon" id="J8(27p`@jOzkTV399p0H"><field name="i">IconNames.Heart</field></block></statement></block><block type="device_gesture_event" id="CZ57]/YzAZWZW6n0PN_l" x="160" y="502"><field name="NAME">Gesture.Shake</field><statement name="HANDLER"><block type="device_clear_display" id="|nhROs,h~sY)qc5(6^Pm"></block></statement></block></xml>
